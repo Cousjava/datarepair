@@ -1,0 +1,2 @@
+ID: 012, Appearance: Height: 185cm; Hair Colour: Blond; Gender: Male; Eye Colour: Grey
+ID: 010, Appearance: Gender: Male; Eye Colour: Hazel; Hair Colour: Brown, DOB: 05/05/1995
